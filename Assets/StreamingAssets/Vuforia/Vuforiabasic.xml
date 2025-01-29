@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="uik2" size="6.000000 2.287011" />
+    <ImageTarget name="adm6" size="6.000000 1.854492" />
+    <ImageTarget name="uik" size="6.000000 0.724913" />
+    <ImageTarget name="PARKING" size="6.000000 2.706605" />
+    <ImageTarget name="C204" size="6.000000 3.889698" />
+    <ImageTarget name="BLOC-C" size="6.000000 3.401367" />
+    <ImageTarget name="F103" size="6.000000 3.918306" />
+    <ImageTarget name="admin" size="6.000000 1.886719" />
+  </Tracking>
+</QCARConfig>
